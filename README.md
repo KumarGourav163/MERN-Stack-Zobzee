@@ -16,7 +16,7 @@ It can not be able to live because it is connected with MongoDB server, so it ca
 1. For frontend :- npm run dev <br>
 2. For backend :- npm start <br><br>
 
-# There are some scarenshots of a Employer :- <br>
+# There are some screenshots of a Employer :- <br>
 ![Screenshot 2024-06-24 230101](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/8d031cb3-1db4-41f0-9018-7d5030622ac5)
 ![Screenshot 2024-06-24 231321](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/9048f5d0-6a46-4271-b840-387736ec4e52)
 ![Screenshot 2024-06-24 230249](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/87f31fe0-c5c6-48a2-be1a-d87039deb297)
@@ -25,7 +25,7 @@ It can not be able to live because it is connected with MongoDB server, so it ca
 ![Screenshot 2024-06-24 230727](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/d6609166-17a8-4998-b7db-c6454e0f3bdf)
 ![Screenshot 2024-06-24 231245](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/bcdf5729-9cde-4c09-bad9-6146196b84de) <br><br>
 
-# There are some scarenshots of a JobSeeker :- <br>
+# There are some screenshots of a JobSeeker :- <br>
 ![Screenshot 2024-06-24 230836](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/38111a1a-9d2d-48ce-8b80-62282ca62df7)
 ![Screenshot 2024-06-24 230905](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/6ed0949d-edd3-4e04-b125-94793df379ca)
 ![Screenshot 2024-06-24 230919](https://github.com/KumarGourav163/MERN-Stack-Zobzee/assets/150587805/7853f906-052f-4cdf-bf55-552e353c64ee)
